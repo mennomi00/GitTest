@@ -1,1 +1,5 @@
+<<<<<<< master
 Linha Menno.
+=======
+Linha Vinicius.
+>>>>>>> master
